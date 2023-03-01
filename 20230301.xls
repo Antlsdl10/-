@@ -1,0 +1,1 @@
+<html><script>alert('보유한 도메인이 없습니다.');history.back();</script><html>
